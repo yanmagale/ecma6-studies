@@ -1,0 +1,9 @@
+{
+  "name": "ecma6-studies",
+  "version": "1.0.0",
+  "author": "Yan Magalhaes",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
